@@ -6,6 +6,7 @@ body {
     height: 100vh;  
 }
 
+
 #display {
     text-align: center;
     margin-top: 20px;  
@@ -24,3 +25,12 @@ footer {
     text-align: center;
 }
 
+.card {
+    margin: 15px;
+    width: 250px;  /* preferred width */
+}
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+}
